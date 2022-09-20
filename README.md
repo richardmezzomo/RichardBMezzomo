@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code, games and surf
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [LinkedIn] (https://www.linkedin.com/in/richardbmezzomo/)
+- 📫 How to reach me...
 
 <!---
 RichardBMezzomo/RichardBMezzomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

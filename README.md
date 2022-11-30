@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code, games and surf
 - 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 📫 How to reach me richardmezzomo1@gmail.com
 
 <!---
 RichardBMezzomo/RichardBMezzomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

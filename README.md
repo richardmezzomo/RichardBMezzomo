@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently mastering my skills in JavaScript<br>👯 I’m looking to collaborate on JavaScript projects<br>🌱 I’m currently learning Java, mySQL and React<br>📬 How to reach me richardmezzomo1@gmail.com<br>⚡ Fun fact i love surf and sea
+🔭 I’m currently mastering my skills in JavaScript<br>👯 I’m looking to collaborate on JavaScript projects<br>🌱 I’m currently learning Java, mySQL and React<br>📬 How to reach me richardmezzomo1@gmail.com<br>⚡ Fun fact i love surf and sea
 
 
 ## 🌐 Socials:
